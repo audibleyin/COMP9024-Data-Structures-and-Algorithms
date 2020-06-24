@@ -1,0 +1,1 @@
+1 Core1 0 2 Core2 0 3 Core1 1 4 Core2 1 5 Core3 1 8 Core1 3 6 Core2 3 9 Core3 3 Infeasible

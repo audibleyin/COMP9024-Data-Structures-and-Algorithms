@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/9024/assignment_2/MyAVLTree.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+string.h
+-
+
